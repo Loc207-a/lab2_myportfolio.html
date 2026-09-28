@@ -1,0 +1,20 @@
+b1{
+    color: red;
+    background-color: lightgreen;
+}
+b2{
+    color: blue;
+}
+#personal-info{
+    background-color: lightblue;
+}
+#skills{
+    background-color: lightyellow;
+}
+.html{
+    font-weight: bold;
+    color: pink;
+}
+.js{
+    color: orange;
+}
